@@ -6,5 +6,7 @@ ordenadores, armario rack con switch y router, rosetas RJ 45 a la pared para una
 pizarra digital e impresora de red.
 
 -Marc-Coordinación, Instalación física y red
+
 -Maya-Presupuestos y Documentación
+
 -Gonzalo-Sistemas y servicios
